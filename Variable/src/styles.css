@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing:border-box;
+}
+body{
+    height: 100vh;
+    background: greenyellow;
+    color: #fff;
+}
+
+header{
+    background-size: cover;
+    background-position: center;
+
+}
+
+box {
+    background-color: greenyellow;
+    padding: 10px 20px 30px;
+    margin: 40px 50px 60px;
+
+}
+.main {
+    min-height: cal(100%-4rem);
+    height: 100vh;
+    min-height: calc(100% - 4rem);
+}
+footer {
+    background-color: red;
+    padding: 5rem;
+    text-align: center;
+    color: blue;
+  }
